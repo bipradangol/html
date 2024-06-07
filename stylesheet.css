@@ -1,0 +1,86 @@
+body{
+    background-color:darkolivegreen;
+    color: white;
+    line-height: 200%;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 5px 3px 2px black;
+    background-color: darkgreen;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 2px dashed #191970;
+    border-top: thin solid #aeaed4;
+}
+h3{
+    font-family: Calibri,cursive;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 3px 2px 5px deepskyblue;
+    letter-spacing: 3px;
+    word-spacing: 1em;
+    background-color: forestgreen;
+}
+h4{
+    font-style: oblique;
+    color: black;
+    background-color: cadetblue;
+}
+a{
+    margin: 90px;
+    font-weight: 500;
+    color: pink;
+}
+abbr{
+    text-decoration: none;
+}
+p{
+    text-indent: 1em;
+}
+code,samp {
+    background-color: burlywood;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#sideList {
+    position: absolute;
+    left: 50px;
+    width: 80px;
+    border: 3px solid #73AD21;
+    padding-bottom: 20em;
+
+}
+#sideDef {
+    margin-right: 50px;
+    margin-left: 150px;
+    width: 70%;
+    border: 3px solid #73AD21;
+    padding: 20px;
+}
+.feature {
+    color: darkred;
+}
+footer {
+    color: bisque;
+    font-size: .75em;
+    font-style: italic;
+}
+#wrapper {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.borders {
+    width: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: darkslateblue;
+}
+#figure {
+    width: 750px;
+    border: 1px solid #000000;
+    padding: 5px;
+    text-align: center;
+    font-family: "Ink Free", fantasy;
+}
